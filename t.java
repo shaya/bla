@@ -11,6 +11,10 @@ this is the hot line
 this line is part of fix
 
 another line by fix
+
 bla bla bla
+
+hanges from other
+
 
 };
